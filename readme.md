@@ -1,6 +1,6 @@
 ![](img/banner.svg)
-# Handwriting Synthesis
-Implementation of the handwriting synthesis experiments in the paper <a href="https://arxiv.org/abs/1308.0850">Generating Sequences with Recurrent Neural Networks</a> by Alex Graves.  The implementation closely follows the original paper, with a few slight deviations, and the generated samples are of similar quality to those presented in the paper.
+# Handwriting Synthesis based on GAN
+Implementation of the handwriting synthesis experiments in the paper <a href="https://arxiv.org/abs/1308.0850">Generating Sequences with Generative Adversarial Networks</a> by Alex Graves. The implementation closely follows the original paper, with a few slight deviations, and the generated samples are of similar quality to those presented in the paper.
 
 Web demo is available <a href="https://seanvasquez.com/handwriting-generation/">here</a>.
 
